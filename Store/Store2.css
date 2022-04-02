@@ -1,0 +1,52 @@
+#header {
+  text-align: center;
+  font-family: Cursive;
+}
+
+.startForm {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 20px;
+}
+
+@media screen and (max-width: 400px) {
+  .startForm {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+  }
+}
+
+.bodyClass {
+  background-color: rgb(181, 43, 216);
+}
+
+.imageClass {
+  width: 30px;
+  height: 30px;
+}
+
+.writings {
+  font-size: 15px;
+  font-family: Cursive;
+  margin: 20px;
+}
+
+.error-message1 {
+  color: red;
+  display: none;
+  font-size: 15px;
+  font-family: Cursive;
+}
+
+.error-message2 {
+  color: red;
+  display: none;
+  font-size: 15px;
+  font-family: Cursive;
+}
+
+.displayed {
+  display: inline-block;
+}

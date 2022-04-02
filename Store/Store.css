@@ -1,0 +1,120 @@
+#header {
+  text-align: center;
+  font-family: Cursive;
+}
+
+.bodyClass {
+  background-color: rgb(207, 119, 153);
+}
+
+.buttons {
+  position: relative;
+  right: -25px;
+  font-family: Cursive;
+  background-color: white;
+  border: black;
+  font-size: 15px;
+  border-radius: 2px;
+  border-style: solid;
+  width: 200px;
+}
+
+#num {
+  position: relative;
+  right: -10px;
+  font-family: Cursive;
+}
+
+.cart_img {
+  width: 75px;
+  height: 75px;
+}
+.cart_img_div {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.cart_down.displayed {
+  display: none;
+}
+
+.cart_wrap {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  right: -20px;
+  width: 100px;
+  height: 120px;
+}
+
+.cart_down {
+  display: flex;
+  flex-direction: column-reverse;
+  bottom: 0;
+}
+
+.item_cart_down_div {
+  display: flex;
+  flex-direction: column;
+  /* background-color: white; */
+}
+
+.img-cart-down {
+  width: 50px;
+  height: 50px;
+}
+
+.price_cart_down {
+  font-size: 15px;
+  font-family: Cursive;
+}
+
+.names_cart_down {
+  font-size: 15px;
+  font-family: Cursive;
+}
+
+.items-div {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+@media screen and (max-width: 400px) {
+  .items-div {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+  }
+}
+
+.An-item-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  border: solid rgb(217, 255, 0);
+}
+
+.item-img {
+  width: 300px;
+  height: 300px;
+}
+.description {
+  font-size: 20px;
+  font-family: Cursive;
+}
+
+.price {
+  font-size: 20px;
+  font-family: Cursive;
+  width: auto;
+  margin: auto;
+}
+
+.names {
+  font-size: 30px;
+  font-family: Cursive;
+  width: auto;
+  margin: auto;
+}

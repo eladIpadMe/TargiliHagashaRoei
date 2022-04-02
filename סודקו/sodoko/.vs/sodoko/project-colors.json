@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "41fe44fd-8e8d-4033-8f7d-ffdbf840ae1e": {
+      "ProjectGuid": "41fe44fd-8e8d-4033-8f7d-ffdbf840ae1e",
+      "DisplayName": "sodoko",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,257 @@
+.main-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  
+    .right-side {
+      background-color: $color-secondary;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);;
+      grid-template-rows: repeat(7, 1fr);
+      width: 100%;
+  
+      .Orange-writing {
+        font-family: $font-primary;
+        color: $color-primary;
+        font-size: 45%;
+        align-self: flex-end;
+        letter-spacing: 0.1em;
+        grid-column-start: 2;
+        grid-row-start: 2;
+        grid-column-end: 3;
+        grid-row-end: 3;
+        margin-left: 6em;                      
+          
+        
+        // text-align: end;
+      
+        
+      }
+  
+      .first {
+        grid-column-start: 2;
+        grid-row-start: 3;
+        grid-column-end: 3;
+        grid-row-end: 4;
+        width: 100%;
+        height: 100%;
+      }
+  
+      .second {
+        grid-column-start: 2;
+        grid-row-start: 4;
+        grid-column-end: 3;
+        grid-row-end: 5;
+        width: 100%;
+        height: 100%;
+      }
+  
+      .third {
+        grid-column-start: 2;
+        grid-row-start: 5;
+        grid-column-end: 3;
+        grid-row-end: 6;
+        width: 100%;
+        height: 100%;
+      }
+
+      .rel-pic{
+          width: 40%;
+          border-radius: 50%;
+          grid-column-start: 1;
+          grid-row-start: 1;
+          grid-column-end: 1;
+          grid-row-end: 3;
+          place-self: center stretch;
+          border-image-outset: 0;
+          margin-left: 2em;
+      }
+        .icon{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        
+
+        }
+        .rel-name{
+            color: white;
+            font-size: xx-small;
+            font-family: $font-display;
+            grid-column-start: 2;
+            grid-row-start: 1;
+            grid-column-end: 2;     
+            grid-row-end: 1;
+            align-self: flex-end;
+            width: 100%;
+            text-overflow: ellipsis;
+            overflow: visible; 
+            white-space: pre;
+            justify-content: start;
+            
+           
+            
+        }
+        .rel-sell{
+            color:$color-grey-light-2;
+            font-size: 3%;
+            font-family: $font-display;
+            grid-column-start: 2;
+            grid-row-start: 2;
+            grid-column-end: 2;
+            grid-row-end: 2;
+            
+        }
+    }
+
+    
+
+
+
+    .left-side {
+        background: linear-gradient(0deg, rgba(16,29,44,0.9), rgba(16,29,44,0.9)),
+         url('/img/house-3.jpeg');        
+         background-size: cover;
+         background-position: center;
+
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      grid-template-rows: repeat(10, 1fr);
+      width: 100%;
+        
+
+      .next-item{
+          
+        grid-column-start: 4;
+        grid-row-start: 1;
+        grid-column-end: 4;
+        grid-row-end: 1;
+        width: 50%; 
+        border-image-outset: 0; 
+        align-items: center;
+        margin: 5%;
+      }
+
+      .header-first{
+   
+        font-size: 45%;
+          align-self:flex-end;
+        font-family: $font-primary;
+        color: $color-primary;
+        grid-column-start: 2;
+        grid-row-start: 3;
+        grid-column-end: 4;
+        grid-row-end: 3;
+        position: relative;
+        bottom: -50%;       
+      }
+
+      .header-second{
+        font-size: medium;
+        align-self: center;
+        letter-spacing: 0.1em;
+
+        font-family: $font-display;
+        color: $color-grey-light-1;
+        grid-column-start: 2;
+        grid-row-start: 4;
+        grid-column-end: 6;
+        grid-row-end: 6; 
+      }
+
+      .button-ref{
+        color: white;
+        align-self:flex-start;
+        font-size: 45%;
+        background-color: $color-primary ;
+        grid-column-start: 2;
+        grid-row-start: 6;
+        grid-column-end: 3;
+        grid-row-end: 7;
+         padding: 5%; 
+      }
+
+      .seen-on{
+        color: $color-grey-light-2;
+        font-family:$font-display;
+        font-size: xx-small;
+        align-self: flex-end;
+        grid-column-start: 4;
+        grid-row-start: 8;
+        grid-column-end: 4;
+        grid-row-end: 8; 
+        margin-bottom: -3.5%;
+        
+      }
+
+      .img-left{
+        width: 50%;
+        opacity:0.5;
+        align-self: center;
+        
+    }
+
+      .first-l{
+        grid-column-start: 2;
+        grid-row-start: 9;
+        grid-column-end: 2;
+        grid-row-end: 9; 
+      }
+
+      .second-l{
+        grid-column-start: 3;
+        grid-row-start: 9;
+        grid-column-end: 3;
+        grid-row-end: 9; 
+      }
+
+      .third-l{
+        width: 90%;
+        grid-column-start: 4;
+        grid-row-start: 9;
+        grid-column-end: 4;
+        grid-row-end: 9; 
+        margin-left: 10%;
+        
+      }
+
+      .fourth-l{
+        grid-column-start: 5;
+        grid-row-start: 9;
+        grid-column-end: 5;
+        grid-row-end: 9; 
+        margin-left: 10%;
+       
+      }
+
+      .border-first{
+        grid-column-start: 2;
+        grid-row-start: 8;
+        grid-column-end: 2;
+        grid-row-end: 8; 
+      }
+      .border-second{
+        grid-column-start: 3;
+        grid-row-start: 8;
+        grid-column-end: 3;
+        grid-row-end: 8;
+        margin-right: 50%; 
+      }
+      .border-third{
+        grid-column-start: 4;
+        grid-row-start: 8;
+        grid-column-end: 4;
+        grid-row-end: 8; 
+        margin-left: 28%;
+      }
+      .border-fourth{
+        grid-column-start: 5;
+        grid-row-start: 8;
+        grid-column-end: 5;
+        grid-row-end: 8; 
+      }
+      .line{
+        color: $color-grey-light-2;
+        align-self: flex-end;
+      }
+      
+    }
+  }

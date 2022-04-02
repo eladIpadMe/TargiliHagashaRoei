@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link href="Store2.css" rel="stylesheet" />
+    <script src="Store2.js"></script>
+  </head>
+  <body class= bodyClass>
+    <h1 id="header">
+     check-out
+    </h1>
+    <div class="startForm"></div>
+    
+    <form action="./Store3" method="get" class="formClass">
+      <div>
+        <label class="writings" for="fname">Name:</label>
+        <input
+          type="text"
+          class="userName1 writings"
+          value="name"
+          name="fname"
+        />
+        <br />
+        <span class="error-message1 writings"
+          >Username must be at least 3 characters.</span
+        >
+      </div>
+      
+      <div>
+        <label class="writings" for="familyname">Family name:</label>
+        <input
+          type="text"
+          class="userName2 writings"
+          value="family"
+          name="familyname"
+        />
+        <br />
+        <span class="error-message2 writings"
+          >Username must be at least 3 characters.</span
+        >
+        <div>
+          <input type="checkbox" id="present" />
+          <label class="writings" for="scales">Present</label>
+        </div>
+        <div>
+          <input
+            class="button writings"
+            type="submit"
+            value="Buy"
+            formaction="Store3.html"
+          />
+        </div>
+      </div>
+    </form>
+  </body>
+</html>

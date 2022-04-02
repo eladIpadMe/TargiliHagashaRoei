@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\bin\Debug\net6.0\TargilToRoei.exe
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\bin\Debug\net6.0\TargilToRoei.deps.json
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\bin\Debug\net6.0\TargilToRoei.runtimeconfig.json
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\bin\Debug\net6.0\TargilToRoei.dll
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\bin\Debug\net6.0\ref\TargilToRoei.dll
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\bin\Debug\net6.0\TargilToRoei.pdb
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\TargilToRoei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\TargilToRoei.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\TargilToRoei.AssemblyInfo.cs
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\TargilToRoei.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\TargilToRoei.dll
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\ref\TargilToRoei.dll
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\TargilToRoei.pdb
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\TargilToRoei.genruntimeconfig.cache
+C:\Users\User\Desktop\תרגיל הגשה\proj\TargilToRoei\TargilToRoei\obj\Debug\net6.0\TargilToRoei.csproj.AssemblyReference.cache

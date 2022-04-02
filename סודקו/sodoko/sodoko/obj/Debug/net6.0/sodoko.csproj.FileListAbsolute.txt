@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.exe
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.deps.json
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.runtimeconfig.json
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.dll
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\ref\sodoko.dll
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.pdb
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.AssemblyInfo.cs
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.dll
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\ref\sodoko.dll
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.pdb
+C:\Users\User\Desktop\רועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.genruntimeconfig.cache
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.exe
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.deps.json
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.runtimeconfig.json
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.dll
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\ref\sodoko.dll
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\bin\Debug\net6.0\sodoko.pdb
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.AssemblyInfo.cs
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.dll
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\ref\sodoko.dll
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.pdb
+C:\Users\User\Desktop\תרגילי הגשה לרועי\סודקו\sodoko\sodoko\obj\Debug\net6.0\sodoko.genruntimeconfig.cache
